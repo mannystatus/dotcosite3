@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "dotco-ecfff",
+    "go": "dotco-ecfff"
+  },
+  "targets": {},
+  "etags": {}
+}
